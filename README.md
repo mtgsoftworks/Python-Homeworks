@@ -1,2 +1,2 @@
 # Python-Homeworks
-My Homeworks projects for course
+My homeworks projects for python course
